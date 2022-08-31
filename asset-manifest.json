@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/githabit/static/css/main.981c3a0e.css",
+    "main.js": "/githabit/static/js/main.d3199c01.js",
+    "index.html": "/githabit/index.html",
+    "main.981c3a0e.css.map": "/githabit/static/css/main.981c3a0e.css.map",
+    "main.d3199c01.js.map": "/githabit/static/js/main.d3199c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.981c3a0e.css",
+    "static/js/main.d3199c01.js"
+  ]
+}
